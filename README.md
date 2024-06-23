@@ -1,7 +1,5 @@
 # Reddit Clinical Trial Sentiment Analysis and Messaging
 
-<img src="https://github.com/sankalpsaoji98/Reddit-Sentiment-Bot/assets/26198596/c8f36d1f-35a4-4dd7-8828-f27330ebfc40" alt="Reddit Bot" width="10%">
-
 ## Introduction
 
 This project aims to analyze sentiments from Reddit posts related to clinical trials and generate personalized messages to engage users about clinical trial participation. The application uses Python libraries for data collection, sentiment analysis, and message generation.
